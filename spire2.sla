@@ -1,0 +1,131 @@
+{
+    "class_id": "com-snaplogic-snap-api-sql-accounts-mysqldynamicaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "Partners"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "spire2"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "advancedProperties": {
+                "value": {
+                    "acquireIncrement": {
+                        "value": 1
+                    },
+                    "autoCommit": {
+                        "value": true
+                    },
+                    "batchSize": {
+                        "value": 50
+                    },
+                    "checkoutTimeout": {
+                        "value": 10000
+                    },
+                    "fetchSize": {
+                        "value": 100
+                    },
+                    "idleConnectionTestPeriod": {
+                        "value": 5
+                    },
+                    "maxIdleTime": {
+                        "value": 30
+                    },
+                    "maxPoolSize": {
+                        "value": 50
+                    },
+                    "minPoolSize": {
+                        "value": 0
+                    },
+                    "retryAttempts": {
+                        "value": 0
+                    },
+                    "urlProperties": {
+                        "value": []
+                    }
+                }
+            },
+            "connectionProperties": {
+                "value": {
+                    "AuthenticationMode": {
+                        "value": "Password"
+                    },
+                    "PassPhrase": {
+                        "expression": false,
+                        "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                        "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                        "sym_iv": "AjQmnuOaAB/JlIveUNA1LA==",
+                        "sym_key": "lBorSziQc2m/e5WaSscUwadJmsG/z8QdLG20or78S4xShSVRVD+jV71RUQItEfhMRDlp1BMa0hDcCVI9h0BHj94heL9zCu8bBg3loYL2eaRXfgUxE/Y1TlQ1u/tDIa6Hb1syQPJPW0hYBhLN7TOfUYmaKZw/gN1Q5vHbFflF8+smiGD9ktqF+gcef2p17aVce/TjmpwkqNGoIH+VMH78eXpZijJbnNMqAMtORWBbBCgysy4fLUroNNbKLuh/fqaDS87WVVc7ufPnL7G/apCM8I7JXVT3KqpuhdjxYRMLlEp2pq36Ua2AyYZ2Zu1jrzM9m4D3x+eAeQ8Pjvey5Mk75A==",
+                        "value": "DbpW483+0EBxu1UauZMDFQ=="
+                    },
+                    "databaseName": {
+                        "expression": false,
+                        "value": "sql7271006"
+                    },
+                    "hostname": {
+                        "expression": false,
+                        "value": "sql7.freemysqlhosting.net"
+                    },
+                    "keyAlias": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "keyStoreURL": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "keystorePassword": {
+                        "expression": false,
+                        "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                        "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                        "sym_iv": "+8oqgG1irtJ4yeXIhAmdNw==",
+                        "sym_key": "AobiYfw7EJCPnuFFbZRXJtMH3QVsxqDQnMmE1IFnoBG7XxpsLZov2HSHbE22YfxqIMPs8XsKU/MIY89FxfQMmNLF8/5GPud7hHZtPug73Jf+69Knc10Rgn1DgGnbD0uTGDB0MIaEvfTkdk0+T3DrNrj4YSp0wLyOqNNzfqUkBzMTASqqBTL/FQwRAh9BDyxKyDVMFZABBQIBIBcLeWSPFYMuXsj+XP6hKBhrcwAW2utwAJUGfVl38iPbf0g4yoU3bBpvUYAdCmlFDxcNE+5vu00atwsGGLa8BOmmOogcsMjExEdO6PTp999LSeqv1f9yNt3DyZIWQeLdvIoxiE+k1A==",
+                        "value": "dwbp9LcABeDzr3xl/wenHA=="
+                    },
+                    "password": {
+                        "expression": false,
+                        "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                        "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                        "sym_iv": "xincOoUKz1zaMSxJJ42LCQ==",
+                        "sym_key": "bo6/+L6P7/znsLW0xv3n662f6I49IpiG02IOBsSv1/NcqXTWXg+7ugF7lg8aWx75eAXVypsoI/cencBxoSILn3gxdKPPUuQ2AtRyD943COLrW1OjJ5AXCdKyUHenHpNWYaE5iGLp4AZdecGRyl6yYfdAEl4iZh62sOTS2GwpGvdUDn1k39/9ZylakbU59OLPHMM2o0CQGsfprVMH7oHqo4YYE428U9oSGc7HBdNLlHeQfE5sQaVO6eJfv8ymL321OTcBPVC8wSLAkYcPXEOG9pEaAVje+JbUan6GoefofPxiWK8WR2Lj5U1rOwtFKOLhw/1+QFHCJSYjSF4fkx0p/A==",
+                        "value": "SM8n2W8iDW5F9rRW/7BQsQ=="
+                    },
+                    "portNumber": {
+                        "expression": false,
+                        "value": 3306
+                    },
+                    "sshTunnelConfiguration": {
+                        "value": false
+                    },
+                    "sshhostname": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "sshpassword": {
+                        "expression": false,
+                        "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                        "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                        "sym_iv": "7JKlAfg6+3CD4nHorutDIw==",
+                        "sym_key": "rU79B87h6FgqXZ2ljPxVcMKi0boD62E9zpsXHMWcRzNC7A2OU+bOMKMB7V7U2bi4Ti7GuDLQ1z0lfMUWvXVTxoEcrn19YIFUsLArMFum4Nb29d42mDsyujdVlUl+opyMitiHn+93qpIVnkPLuy8cdYuMQQakw8NgbXSAMYXvKhqiJbLDpBWv4sa2bd4kpepgPoJtHA7YZ41ek1/1y1/V4gaJ+Y8oEQl7mq92erVEB9Sz1ysdAncAtJ3AoxiocX1kDL6rg48JiW073ie4RkeH7r84Fq6Xe4LER5yriM8i1RZoF+bZ+LXoXxyHCE6SE5iT1mfzPL2APWSy+KpC89dVMg==",
+                        "value": "ufI6xAUv3I17X7E0rO0Fdw=="
+                    },
+                    "sshusername": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "username": {
+                        "expression": false,
+                        "value": "sql7271006"
+                    }
+                }
+            }
+        },
+        "view_serial": 100
+    }
+}
