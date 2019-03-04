@@ -1,0 +1,58 @@
+{
+    "class_id": "com-snaplogic-snaps-email-smtpaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "Partners"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Spiro"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "attachmentPassword": {
+                "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                "sym_iv": "l2Ncqd4zTyCCq5YoBi2OcQ==",
+                "sym_key": "edEemvEbM9mdrh0x0OAiaOWf77uIOY84i2KTUYKgP97v3xFQdHFyc0DQ9zXSY7SCIL+y3qmi5Sh25eBv0UBmvdPQawAkt0TK150SN0GzMCsXimhIROKtg8x9T2KloSXDUA7h00lhnHBlZSHuWw7uFI8G/chCg1ynpU7P+newDDxeei8pGRdYb8yo73Pmex4AVGxqzvvJWflJQ1GkeoIyiBp4kR7HmdNT1Uo5w5oa+/vBYmeYGRtQE2ek+lZTUD+GHO3M5oL3dUGeBMb7OY+el16E1VUOXADPxdUWvpueIwh+i0FnZTxTxvmqZCFB8wtTT1thhTl9zmKSbwK/+pZeSA==",
+                "value": "MWT3E8dZZCIILlQxRJzI7Q=="
+            },
+            "connectionTimeout": {
+                "value": 60000
+            },
+            "emailId": {
+                "value": "spire.taleski@yahoo.com"
+            },
+            "mailProperties": {
+                "value": []
+            },
+            "password": {
+                "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                "sym_iv": "4hvZIds4kbrAPad6BKb2eA==",
+                "sym_key": "YWTX/T9OateFoo33rXT1rJMY7yc54d1PYD/aME472vLz69L+8tskUWXbDPyaj4srxn270zG8CfDlaqjZVzeQzPWLi/UgfqvJaJaTJrK6241OVeEz27fLe0ArUx3/xqkAwiMqMwv3N/R6BadWfmPEGC1Ka3Gb8XzYiId7utYC8I9gPzptuzQRxSbxCHgInWBSDI+cScNMZIQvIgu2vCIIpNnwxhp7d6eSwwN6zx7z5fZHqpzvwpYZ91Vx2Fl0UopQA8JPVcGla7DtFwKwpRB+UEzztmRAqJEcGmygFsBVYS7oNFckyijT4dM6LebtSqtU/pN0Rzs09bswt1tTCIvUKA==",
+                "value": "pf3qkiJVU44xxDSsXK5IoQ=="
+            },
+            "port": {
+                "value": "465"
+            },
+            "readTimeout": {
+                "value": 60000
+            },
+            "secureConnection": {
+                "value": "SSL"
+            },
+            "serverDomain": {
+                "value": "plus.smtp.mail.yahoo.com"
+            },
+            "writeTimeout": {
+                "value": 60000
+            }
+        },
+        "view_serial": 100
+    }
+}
